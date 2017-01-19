@@ -63,9 +63,20 @@ body {
     .heading2 {
         text-align: center;
         color: white;
-    }
+}
 
     /*Teachers image gallary*/
-    img {
+
+img {
+        display: block;
+        position: relative;
+        text-align: center;
         border-radius: 50%;
+        border: 3px solid white;
+        margin: 0 auto;
     }
+
+.teachtergallery {
+    text-align: center;
+}
+
