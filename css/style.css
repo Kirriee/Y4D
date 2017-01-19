@@ -1,4 +1,21 @@
-/*.full-size{
-	max-height: 100%; 
-	max-width: 100%;	
-}*/
+.footer-copyright {
+  margin-top: 0px;
+  padding-top: 0px;
+  background-color: #99CCCC;
+}
+
+
+.footer-copyright {
+  overflow: hidden;
+  height: 70px;
+  line-height: 80px;
+  color: rgba(255, 255, 255, 0.8);
+   }
+
+
+.carousel.carousel-slider{
+	height:88%!important;
+}
+#wrap{
+	height:100vh;
+}
