@@ -53,9 +53,19 @@ body {
         background-color: white;
     }
 
-/*Header*/
-.header {
-    text-align: center;
-    color: white;
-    font-size: 5em;
-}
+    /*Header*/
+    .header {
+        text-align: center;
+        color: white;
+        font-size: 5em;
+    }
+
+    .heading2 {
+        text-align: center;
+        color: white;
+    }
+
+    /*Teachers image gallary*/
+    img {
+        border-radius: 50%;
+    }
