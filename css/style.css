@@ -1,5 +1,7 @@
+/*style dropdown menu*/
+
 .dropbtn {
-    background-color: #4CAF50;
+    background-color: #99CCCC;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -27,13 +29,13 @@
     display: block;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {background-color: #595959}
 
 .dropdown:hover .dropdown-content {
     display: block;
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #3e8e41;
+    background-color: #99CCCC;
 }
 
