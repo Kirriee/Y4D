@@ -4,8 +4,8 @@ body {
     font-weight: 400; 
     text-transform: none; 
     letter-spacing: 0.08em;
+    background-color: #99CCCC;
 }
-
 
 /*style dropdown menu*/
 
@@ -38,13 +38,16 @@ body {
     display: block;
 }
 
-.dropdown-content a:hover {background-color: #595959}
+.dropdown-content a:hover {
+    color: #595959;
+    background-color: #cccccc}
 
 .dropdown:hover .dropdown-content {
     display: block;
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #99CCCC;
+    color: #595959;
+    background-color: white;
 }
 
