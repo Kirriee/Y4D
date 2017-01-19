@@ -20,7 +20,7 @@ body {
 }
 
 .dropdown {
-    position: relative;
+    position: fixed;
     display: inline-block;
 }
 
@@ -52,3 +52,9 @@ body {
         background-color: white;
     }
 
+/*Header*/
+.header {
+    text-align: center;
+    color: white;
+    font-size: 5em;
+}
