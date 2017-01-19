@@ -10,6 +10,7 @@ body {
 /*style dropdown menu*/
 
 .dropbtn {
+    font-family: 'Josefin Sans';
     background-color: #99CCCC;
     color: white;
     padding: 16px;
@@ -42,12 +43,12 @@ body {
     color: #595959;
     background-color: #cccccc}
 
-.dropdown:hover .dropdown-content {
-    display: block;
-}
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
 
-.dropdown:hover .dropbtn {
-    color: #595959;
-    background-color: white;
-}
+    .dropdown:hover .dropbtn {
+        color: #595959;
+        background-color: white;
+    }
 
