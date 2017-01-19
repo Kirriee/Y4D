@@ -22,6 +22,7 @@ body {
 .dropdown {
     position: fixed;
     display: inline-block;
+    margin-top: -50px;
 }
 
 .dropdown-content {
