@@ -53,7 +53,7 @@ body {
 /*About*/
 
 .about1 {
-    padding: 50px;
+    padding: 5px 50px 5px 50px;
 }
 
     /*Teachers image gallary*/
@@ -83,3 +83,11 @@ img {
     color: white;
     font-size: 1.5em;
 }
+
+/*Footer*/
+.footer{ 
+   text-align: center;
+   display: block;
+   padding-top:85px;
+   color: white;
+   }
