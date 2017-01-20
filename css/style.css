@@ -65,6 +65,21 @@ body {
     margin-right: auto;
     padding: 220px;
     height: 20em;
-    
-    
+
+}
+
+.footer-copyright {
+  margin-top: 0px;
+  padding-top: 0px;
+  background-color: #99CCCC;
+}
+
+#opening {
+    text-align: center;
+    color: #99cccc;
+    font-size: 2em;
+    background-color: white;
+    padding: 5px 5px 5px 5px;
+    margin-top: -100px;
+
 }
