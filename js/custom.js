@@ -1,10 +1,21 @@
 $('.carousel.carousel-slider').carousel({full_width: true});
 
-// var target = $('.dropdown-button')
-// var data = $(target).data('hallo')
-// console.log(data)
+$('.homeimage').hide().fadeIn(4000)
 
+// load / link jquery in html
+// decide which html element you want to target
+// decide what this element should do
 
-$(window).load(function() {
-	$(".loader").fadeOut("slow");
-})
+// Begin --> Eind
+// ++++ Begin: opacity 0%
+// $('.homeimage').fadeIn()
+// MAGIC 
+// ====> Eind: opactity 100%
+
+// $('.homeimage').css('opacity', '0')
+
+// fadeOut
+// Begin --> Eind
+// Begin: opacity 100%
+// Eind: opactity 0%
+
