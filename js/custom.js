@@ -1,3 +1,4 @@
+
 $('.carousel.carousel-slider').carousel({full_width: true});
 
 $('.homeimage').hide().fadeIn(4000)
