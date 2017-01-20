@@ -1,6 +1,10 @@
 /*
 footer*/
 
+.red {
+  background-color: #99CCCC !important;
+}
+
 .footer{ 
    text-align: center;
    display: block;
@@ -8,13 +12,12 @@ footer*/
     color: white;
 
    }
-
-/*carousel*/
-.carousel.carousel-slider{
-	height:88%!important;
+.carousel.carousel-slider#awesome{
+    height:88%!important;
 }
+
 #wrap{
-	height:100vh;
+    height:100vh;
 }
 
 /*general style*/
@@ -101,4 +104,6 @@ body {
 h2.ontop {
   position: relative;
   top: 4.7em;
-  }        }
+  }        
+
+  
