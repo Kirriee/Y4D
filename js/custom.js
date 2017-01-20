@@ -18,3 +18,4 @@ $('.homeimage').hide().fadeIn(4000)
 // Begin --> Eind
 // Begin: opacity 100%
 // Eind: opactity 0%
+
