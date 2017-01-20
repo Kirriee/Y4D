@@ -1,38 +1,15 @@
+/*
+footer*/
+
 .footer{ 
    text-align: center;
    display: block;
-   padding-top:85px;
-   color: white;
+   padding-top:-275px;
+    color: white;
+
    }
 
-
-/*
-.footer-copyright {
-  margin-top: 0px;
-  margin-left:0px;
-  padding-top: 0px;
-  background-color: #99CCCC;
-  width:1198px;
-
-}
-
-
-.footer-copyright {
-  overflow: hidden;
-  height: 70px;
-  line-height: 60px;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: center;
-  border:1px solid red;	
-}
-
-.footer-copyright ul li{
-	display: inline-block;
-	padding: 0;
-	text-align:cent*/er;
-
-}
-
+/*carousel*/
 .carousel.carousel-slider{
 	height:88%!important;
 }
@@ -107,9 +84,10 @@ body {
         color: white;
     }
 
+/*pricing*/
     .row{
         width: 1100px;
-        margin-top: 200px
+        margin-top: 100px
     }
     .card-title{
         background-color: #858585 ;
@@ -120,10 +98,7 @@ body {
      padding: 5px;
 }
 
-
-
 h2.ontop {
   position: relative;
   top: 4.7em;
   }        }
-
